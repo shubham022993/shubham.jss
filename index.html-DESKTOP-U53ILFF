@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    font-size: 100px;
+}
+
+    </style>
+    <nav>
+
+        <h1>HELLO</h1>
+        <h1>MUSIC</h1>
+        <h1>SHORT</h1>
+        <h1>SEARCH</h1>
+
+    </nav>
+</body>
+
+</html>
